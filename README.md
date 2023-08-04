@@ -2,12 +2,11 @@
 A Repo for my Lottie JSON files
 
 
-HOW IT WORKS
+**HOW IT WORKS**
 
 
 
-
-PART I. The Trouble with LottieFiles
+**PART I. The Trouble with LottieFiles**
 
 There are a lot of free animations hosted on LottieFiles.com, but only so-called 'free' because in order to embed them in your website,
 you'll need to jump through a lot of hurdles.
@@ -47,7 +46,7 @@ whether you create and upload your own Lottie animation or save an animation cre
 
 
 
-PART II. The Solution using Lordicon
+**PART II. The Solution using Lordicon**
 
 Thankfully, Lordicon.com provides plenty of free animations that actually work well in embeds.
 For example, select the gift box animation on this address then click the HTML button:
@@ -75,7 +74,7 @@ Also unlike using an iframe, there's no way to style this to have rounded corner
 
 
 
-III. The Conclusion
+**III. The Conclusion**
 
 Finally, we can use this modified script:
 
